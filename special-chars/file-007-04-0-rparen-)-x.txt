@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 7
+Branch index: 4
+File slot: 0
+Special character: ')' (label: rparen)
+Repo: test..repo-007
+Branch: branch-007-04-rparen-)-x
+Path: special-chars/file-007-04-0-rparen-)-x.txt
